@@ -1,8 +1,0 @@
-- name: 博客系统
-  detail: 博客，又译为网络日志、部落格或部落阁等，是一种通常由个人管理、不定期张贴新的文章的网站。
-- name: dreamgo
-  detail: 一个新手学习用的博客系统，用 Go 语言实现自己的梦想。 https://studygolang.com
-- name: 标准库
-  detail: 标准程序库是类库和函数的集合，其使用核心语言写成
-- name: 路由
-  detail: 路由（routing）是指分组从源到目的地时，决定端到端路径的网络范围的进程。
